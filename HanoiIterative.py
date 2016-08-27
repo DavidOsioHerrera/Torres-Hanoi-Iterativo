@@ -1,4 +1,4 @@
-autor: David Osio Herrera
+# autor: David Osio Herrera
 
 n = 16
 a = []
